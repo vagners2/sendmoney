@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vagnerss/Projetos/vagners/sendmoney/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="af5e7493d5d2ce0964aa237f119c4ebbc15ee186">
+        <dex dex="/Users/vagnerss/Projetos/vagners/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e158b3c8d5a922d62c88cf36b5485f0a9b0576db/classes.dex" />
+    </item>
+
+</items>

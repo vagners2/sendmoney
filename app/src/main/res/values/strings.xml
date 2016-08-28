@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SendMoney</string>
+
+    <string name="user_name">Vagner Santos</string>
+    <string name="user_email">vagnerss@live.com</string>
+    <string name="message_token">Aguarde...\nGerando Token</string>
+    <string name="error_title">Ops, ocorreu um erro</string>
+    <string name="title_sendmoney">ENVIAR DINHEIRO</string>
+    <string name="loading_message">Aguarde...</string>
+    <string name="send_sucess">Seu dinheiro foi enviado com sucesso.</string>
+    <string name="sucess">Sucesso</string>
+    <string name="title_extract">HISTÓRICO DE ENVIOS</string>
+
+</resources>
