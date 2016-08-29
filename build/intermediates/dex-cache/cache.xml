@@ -2,11 +2,130 @@
 <items version="2" >
 
     <item
-        jar="/Users/vagnerss/Projetos/vagners/sendmoney/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="af5e7493d5d2ce0964aa237f119c4ebbc15ee186">
-        <dex dex="/Users/vagnerss/Projetos/vagners/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e158b3c8d5a922d62c88cf36b5485f0a9b0576db/classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_77385bfc438c7cf6769552f118c2a2b38605a1e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.3.0/e1707f3752463c5d240f427240a54762d7b60474/butterknife-annotations-8.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e1707f3752463c5d240f427240a54762d7b60474">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.3.0_21a0f955d160c593172c2adc43a5dd8a11f45876/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_aa911dfe1c10ba0d7838687f77366cb11f6daa67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_afaaa46e0f63a8610e97815ed13f43af9c356913/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0632b3e1ff64ae55df5b847aaaaf3c972836b7ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_32df2359d91607d83327bdefb58d17e5eb0bdfbc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_7ed7e71f2f3140cbf5a41a18a0f0e5ae18cdb0fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b9c22ac86c73ab09c37a0606c779a82b8f9810d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85671cf606fe4406f55c10a1ddca6b16ac0a7014">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d4c6e8b306330ae9a36aea35f3d6397d2050c0f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0ca33ef355eee81737183818567618abda4a41fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9fc69c9eb208228b7feef1d3108ef28a16cc3abf">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.3.0_53ee0b9b76249ab2de2210150ba52315e9b33e6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e21d6e38e21aedc9b7e90539f35714139dac2e5e">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b73afb8604750f6adf63a02dc4d8b075aa68c47f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_188896e0308aa54a663aa25240e90b7e0a53600a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_f5691670107e6cb16a8cedd4f99f6836e8fa4523/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_205cafc75220b2c7fdde2466b197ed4824f9b817/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c56dcf82b5cd2d74577b775a051999e677621a89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_d44c940bf73ca823eb55cef1686d33cb1f73ef01/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/sendmoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_fc94ff6e11f0afb64cfbd6162548fcdb88525b6a/classes.dex" />
     </item>
 
 </items>

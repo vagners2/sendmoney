@@ -19,6 +19,7 @@ import android.widget.TextView;
 import com.squareup.picasso.Picasso;
 
 import java.text.NumberFormat;
+import java.util.Locale;
 
 import br.com.vagners.sendmoney.R;
 import br.com.vagners.sendmoney.model.ContactModel;
@@ -112,12 +113,12 @@ public class SendDialog extends DialogFragment implements View.OnClickListener {
                 if (!s.toString().equals(current)) {
                     sendValue.removeTextChangedListener(this);
 
-                    String cleanString = s.toString().replaceAll("[$,.]", "");
+                    String cleanString = s.toString().replaceAll("[R,$,.]", "");
 
                     double parsed = Double.parseDouble(cleanString);
-                    String formatted = NumberFormat.getCurrencyInstance().format((parsed / 100));
+                    String formatted = NumberFormat.getCurrencyInstance(Locale.US).format((parsed / 100));
 
-                    current = formatted.replaceAll("[$]", "");
+                    current = formatted.replaceAll("[R,$]", "");
                     sendValue.setText(current);
                     sendValue.setSelection(current.length());
                     sendValue.addTextChangedListener(this);

@@ -70,6 +70,7 @@
                 android:background="@android:color/transparent"
                 android:gravity="center"
                 android:text="0.00"
+                android:maxLength="8"
                 android:inputType="numberDecimal"
                 android:textColor="@android:color/holo_blue_dark"
                 android:textSize="@dimen/size_superbig"
